@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pixplash/static/css/main.5821a307.css",
+    "main.js": "/pixplash/static/js/main.87d9b0d3.js",
+    "static/media/pixplash-logo.png": "/pixplash/static/media/pixplash-logo.4c41b38d1bdb800b7b2c.png",
+    "static/media/download.svg": "/pixplash/static/media/download.25a228b5331628778502b2741c5edc9a.svg",
+    "index.html": "/pixplash/index.html",
+    "main.5821a307.css.map": "/pixplash/static/css/main.5821a307.css.map",
+    "main.87d9b0d3.js.map": "/pixplash/static/js/main.87d9b0d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5821a307.css",
+    "static/js/main.87d9b0d3.js"
+  ]
+}
